@@ -1,0 +1,39 @@
+#main {
+    margin-bottom: 40px;
+}
+
+#urgent {
+    background: #f8d7da; 
+    border: 1px solid #f5c6cb; 
+    text-align: center; 
+    height: 28px; 
+    color: #721c24;
+}
+
+#comingup {
+    background: #fff3cd; 
+    text-align: center; 
+    border: 1px solid #ffeeba; 
+    height: 28px; 
+    color: #856404;
+}
+
+#relax {
+    background: #d4edda; 
+    text-align: center; 
+    border: 1px solid #c3e6cb; 
+    height: 28px; 
+    color: #155724;
+}
+
+#editContent {
+    background: #007bff; 
+    border: 1px solid #0568d2; 
+    color: #fff;
+}
+
+#deleteMe {
+    background: red; 
+    border: 1px solid #cc0303; 
+    color: #fff;
+}
